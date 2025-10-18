@@ -1,4 +1,4 @@
-## 👋 Hey there, I'm Gokul Kannan!  
+## 👋 Hey there, I'm Gokul Kannan Ganesamoorthy!  
 
 <p align="center">
   <picture>
