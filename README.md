@@ -37,13 +37,13 @@ Based in **India**, I sit at the intersection of **Design, Engineering, and Secu
 
 ### 🚀 Projects
 
-| Project            | Description                                             | Stack               |
-| :----------------- | :------------------------------------------------------ | :------------------ |
-| **SaaSify**        | Modern landing page with **3D scroll reveals**.         | `React` `Motion`    |
-| **Luminary**       | Kinetic portfolio with **physics-based** interactions.  | `React` `GSAP`      |
-| **Dino Portfolio** | Interactive portfolio with a **custom physics engine**. | `JS` `Canvas`       |
-| **Neon Commerce**  | Immersive **Gen-Z** e-commerce concept.                 | `React` `Redux`     |
-| **VulnScan**       | **Security tool** for automated vulnerability scanning. | `Python` `Security` |
+| Project                                                                          | Description                                             | Stack               |
+| :------------------------------------------------------------------------------- | :------------------------------------------------------ | :------------------ |
+| **[SaaSify](#)**                                                                 | Modern landing page with **3D scroll reveals**.         | `React` `Motion`    |
+| **[Luminary](#)**                                                                | Kinetic portfolio with **physics-based** interactions.  | `React` `GSAP`      |
+| **[Dino Portfolio](https://github.com/gokulkannanganesamoorthy/dino_portfolio)** | Interactive portfolio with a **custom physics engine**. | `JS` `Canvas`       |
+| **[Neon Commerce](#)**                                                           | Immersive **Gen-Z** e-commerce concept.                 | `React` `Redux`     |
+| **[VulnScan](https://pypi.org/project/VulnScan/)**                               | **Security tool** for automated vulnerability scanning. | `Python` `Security` |
 
 <br />
 
