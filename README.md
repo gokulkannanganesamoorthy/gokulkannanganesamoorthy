@@ -1,101 +1,106 @@
+<!-- PREMIUM APPLE-STYLE HEADER -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=900&size=50&pause=1000&color=2DD4BF&center=true&vCenter=true&width=1000&lines=Gokul+Kannan+Ganesamoorthy;Frontend+Engineer;Creative+UI%2FUX+Designer;Security+Researcher;Building+Digital+Experiences" alt="Typing SVG" />
+  <br />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=42&pause=1000&color=111111&center=true&vCenter=true&width=1000&lines=Design.+Animation.+Security.;Crafting+Digital+Excellence." alt="Typing SVG" />
+  <br />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=100&section=header&text=&fontSize=90" />
+  <h3 style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight: 300; color: #555;">
+    Gokul Kannan Ganesamoorthy
+  </h3>
+  <p style="color: #666; font-size: 14px;">
+    Frontend Engineer &middot; Creative UI/UX &middot; Security Researcher
+  </p>
+  <br />
 </div>
 
+<!-- PHILOSOPHY QUOTE -->
 <div align="center">
-  <a href="https://github.com/gokulkannanganesamoorthy">
-    <img src="https://img.shields.io/badge/Status-Building%20the%20Future-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a&color=2dd4bf" />
-  </a>
-   <a href="https://pypi.org/user/gokulkannanganesamoorthy/">
-    <img src="https://img.shields.io/badge/PyPI-Package%20Creator-000000?style=for-the-badge&logo=pypi&logoColor=white&labelColor=0f172a&color=3b82f6" />
-  </a>
-</div>
-
-<br />
-
-<h3 align="center">
-  "I build high-performance, animation-rich, and concept-driven web experiences."
-</h3>
-
-<p align="center">
-  <i>📍 Based in India | 🚀 Building at the intersection of Design, Engineering & Security</i>
-</p>
-
----
-
-## 👨‍� About Me
-
-I’m **Gokul Kannan Ganesamoorthy**, a developer and designer who doesn't just build websites—I craft **digital experiences**. My work bridges the gap between **modern frontend engineering, creative UI/UX, and web security**.
-
-I specialize in **React + Vite**, **Tailwind CSS**, and **Framer Motion**, creating fluid, physics-based interactions that feel alive. I reject generic templates in favor of **custom, high-performance architectures** that push the boundaries of what the web can be.
-
-> "I strongly believe in building from scratch, avoiding templates, and treating the web as an interactive medium rather than just a page."
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,vite,ts,js,tailwind,threejs,python,nodejs,express,mongodb,firebase,git,github,figma,kali,linux&perline=8" />
-</div>
-
----
-
-## 🏆 Featured Projects
-
-| Project            | Description                                                                                                                                          | Stack                    |
-| :----------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------- |
-| **SaaSify**        | A hyper-modern SaaS landing page with **3D scroll reveals**, glassmorphic navigation, Apple-style bento grids, and performance-optimized animations. | React, Framer Motion, 3D |
-| **Luminary**       | A **kinetic brutalist photography portfolio** with velocity-responsive typography, physics-based motion, and custom cursor interactions.             | React, WebGL, GSAP       |
-| **Dino Portfolio** | An interactive **offline-style portfolio** inspired by the Chrome Dino game, built with a custom 1-bit physics engine and collision logic.           | JavaScript, Canvas API   |
-| **Neon Commerce**  | A modern **Gen-Z sneaker e-commerce** concept focused on bold visuals, immersive UI, and fluid shopping experiences.                                 | React, Tailwind, Redux   |
-
-### � Security Work
-
-**[VulnScan](https://pypi.org/project/VulnScan/)** 🛡️  
-_A web penetration testing tool published as a PyPI package._  
-Includes **21+ security modules** covering domain enumeration, vulnerability scanning, API security testing, cloud security checks, AI-assisted detection, and advanced reporting.
-
----
-
-## ⚡ GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gokulkannanganesamoorthy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2DD4BF&icon_color=38BDF8" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulkannanganesamoorthy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2DD4BF" height="180" alt="languages graph" />
+  <blockquote>
+    <i>"Design is not just what it looks like and feels like. Design is how it works."</i> — <b>Steve Jobs</b>
+    <br />
+    <br />
+    My philosophy mirrors this: <b>High-performance, physics-based motion, and absolute precision.</b> I build from scratch to ensure every interaction feels intentional.
+  </blockquote>
 </div>
 
 <br />
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gokulkannanganesamoorthy&theme=tokyonight&hide_border=true&background=0D1117&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF" alt="streak graph" />
-</div>
-
----
-
-## 🚀 Connect with Me
+<!-- PROJECT BENTO GRID -->
+<h2 align="center">Selected Work</h2>
 
 <div align="center">
-  <a href="https://gokulkannanganesamoorthy.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-000000?style=for-the-badge&logo=vercel&logoColor=white&color=000" />
-  </a>
-  <a href="https://www.linkedin.com/in/gokulkannanganesamoorthy/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/gokulkannanganesamoorthy/">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:contact@gokulkannan.dev">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <h3>🍱 SaaSify</h3>
+        <p><b>Hyper-modern SaaS Landing</b></p>
+        <p>3D scroll reveals, glassmorphism, Apple-style bento grids.</p>
+        <p><i>React &middot; Framer Motion &middot; 3D</i></p>
+      </td>
+      <td width="50%" align="center">
+        <h3>📸 Luminary</h3>
+        <p><b>Kinetic Brutalist Portfolio</b></p>
+        <p>Velocity-responsive typography & physics-based motion.</p>
+        <p><i>React &middot; WebGL &middot; GSAP</i></p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <h3>🦖 Dino Portfolio</h3>
+        <p><b>Interactive Physics Engine</b></p>
+        <p>Offline-style portfolio with collision logic.</p>
+        <p><i>JavaScript &middot; Canvas API</i></p>
+      </td>
+      <td width="50%" align="center">
+        <h3>👟 Neon Commerce</h3>
+        <p><b>Gen-Z Sneaker Store</b></p>
+        <p>Bold visuals and immersive shopping UI.</p>
+        <p><i>React &middot; Tailwind &middot; Redux</i></p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br />
 
+<!-- SECURITY SECTION (Distinct) -->
+<h2 align="center">Security Research</h2>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=2DD4BF" />
+  <a href="https://pypi.org/project/VulnScan/">
+    <img src="https://img.shields.io/badge/🛡️%20VulnScan-Web%20Penetration%20Tool-000000?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+  <br /><br />
+  <p width="600px">
+    A PyPI package featuring <b>21+ security modules</b> for domain enumeration, vulnerability scanning, and AI-assisted detection.
+  </p>
+</div>
+
+<br />
+
+<!-- MINIMALIST TECH STACK -->
+<h2 align="center">Technologies</h2>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,python,figma,linux&theme=light" height="40" />
+</div>
+
+<br />
+
+<!-- SUBTLE STATS -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gokulkannanganesamoorthy&show_icons=true&theme=graywhite&hide_border=true&hide_title=true&hide_rank=true" height="130" alt="stats graph" />
+</div>
+
+<br />
+
+<!-- FOOTER -->
+<div align="center">
+  <p style="font-size: 12px; color: #888;">
+    <a href="https://gokulkannanganesamoorthy.vercel.app" style="text-decoration: none; color: #333;"><b>Portfolio</b></a> &middot;
+    <a href="https://www.linkedin.com/in/gokulkannanganesamoorthy/" style="text-decoration: none; color: #333;"><b>LinkedIn</b></a> &middot;
+    <a href="mailto:contact@gokulkannan.dev" style="text-decoration: none; color: #333;"><b>Contact</b></a>
+  </p>
+  <br />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=5" width="100%" />
 </div>
