@@ -67,6 +67,16 @@ Based in **India**, I sit at the intersection of **Design, Engineering, and Secu
 <br />
 
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/gokulkannanganesamoorthy/gokulkannanganesamoorthy/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/gokulkannanganesamoorthy/gokulkannanganesamoorthy/blob/output/github-contribution-grid-snake.svg" />
+    <img src="https://github.com/gokulkannanganesamoorthy/gokulkannanganesamoorthy/blob/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation" />
+  </picture>
+</div>
+
+<br />
+
+<div align="center">
   <a href="https://gokulkannanganesamoorthy.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-black?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
