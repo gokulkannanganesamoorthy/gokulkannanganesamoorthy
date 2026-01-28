@@ -1,6 +1,5 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Gokul%20Kannan%20Ganesamoorthy&fontSize=45&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%26%20Security%20Researcher&descSize=20&descAlignY=70" width="100%" />
-</div>
+<h1 align="center">Gokul Kannan Ganesamoorthy</h1>
+<h3 align="center">Frontend Developer & Security Researcher</h3>
 
 <div align="center">
   <h3> Building physics-based web experiences & securing digital infrastructure.</h3>
