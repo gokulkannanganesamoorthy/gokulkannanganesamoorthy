@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About Me
 
-Based in **India**, I sit at the intersection of **Design, Engineering, and Security**. I don't use templates—I build from scratch to ensure performance and precision.
+Based in **India**, I sit at the intersection of **Design, Engineering, and Security**. I don't use templates - I build from scratch to ensure performance and precision.
 
 - 🔭 I’m currently working on **VulnScan** (Web Security Tool).
 - 🎨 I specialize in **Animations** and **Micro-interactions**.
@@ -48,8 +48,16 @@ Based in **India**, I sit at the intersection of **Design, Engineering, and Secu
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gokulkannanganesamoorthy&show_icons=true&theme=transparent&hide_border=true&title_color=000&text_color=444&icon_color=000" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulkannanganesamoorthy&layout=compact&theme=transparent&hide_border=true&title_color=000&text_color=444" height="150" alt="languages graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gokulkannanganesamoorthy&show_icons=true&theme=transparent&hide_border=true&title_color=fff&text_color=fff&icon_color=fff" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=gokulkannanganesamoorthy&show_icons=true&theme=transparent&hide_border=true&title_color=000&text_color=000&icon_color=000" />
+    <img src="https://github-readme-stats.vercel.app/api?username=gokulkannanganesamoorthy&show_icons=true&theme=transparent&hide_border=true&title_color=000&text_color=000&icon_color=000" height="150" alt="stats graph" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulkannanganesamoorthy&layout=compact&theme=transparent&hide_border=true&title_color=fff&text_color=fff" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulkannanganesamoorthy&layout=compact&theme=transparent&hide_border=true&title_color=000&text_color=000" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulkannanganesamoorthy&layout=compact&theme=transparent&hide_border=true&title_color=000&text_color=000" height="150" alt="languages graph" />
+  </picture>
 </div>
 
 <br />
