@@ -5,7 +5,11 @@
   <h3> Building physics-based web experiences & securing digital infrastructure.</h3>
   <br />
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=333333&center=true&vCenter=true&width=1000&lines=Building+Interactions+from+Scratch;React+%7C+TypeScript+%7C+Tailwind+%7C+Framer+Motion;Web+Security+%26+Ethical+Hacking" alt="Typing SVG" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1000&lines=Building+Interactions+from+Scratch;React+%7C+TypeScript+%7C+Tailwind+%7C+Framer+Motion;Web+Security+%26+Ethical+Hacking" />
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=333333&center=true&vCenter=true&width=1000&lines=Building+Interactions+from+Scratch;React+%7C+TypeScript+%7C+Tailwind+%7C+Framer+Motion;Web+Security+%26+Ethical+Hacking" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=333333&center=true&vCenter=true&width=1000&lines=Building+Interactions+from+Scratch;React+%7C+TypeScript+%7C+Tailwind+%7C+Framer+Motion;Web+Security+%26+Ethical+Hacking" alt="Typing SVG" />
+    </picture>
   </a>
 </div>
 
