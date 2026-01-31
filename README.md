@@ -53,9 +53,9 @@ Based in **India**, I sit at the intersection of **Design, Engineering, and Secu
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gokulkannanganesamoorthy&show_icons=true&theme=transparent&hide_border=true&title_color=fff&text_color=fff&icon_color=fff" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=gokulkannanganesamoorthy&show_icons=true&theme=transparent&hide_border=true&title_color=000&text_color=000&icon_color=000" />
-    <img src="https://github-readme-stats.vercel.app/api?username=gokulkannanganesamoorthy&show_icons=true&theme=transparent&hide_border=true&title_color=000&text_color=000&icon_color=000" height="150" alt="stats graph" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=gokulkannanganesamoorthy&show_icons=true&theme=transparent&hide_border=true&title_color=fff&text_color=fff&icon_color=fff" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=gokulkannanganesamoorthy&show_icons=true&theme=transparent&hide_border=true&title_color=000&text_color=000&icon_color=000" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gokulkannanganesamoorthy&show_icons=true&theme=transparent&hide_border=true&title_color=000&text_color=000&icon_color=000" height="150" alt="stats graph" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulkannanganesamoorthy&layout=compact&theme=transparent&hide_border=true&title_color=fff&text_color=fff" />
