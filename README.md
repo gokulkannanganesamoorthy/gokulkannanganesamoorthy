@@ -15,8 +15,6 @@
 
 <br />
 
-[![Gokul's GitHub stats](https://github-readme-stats.vercel.app/api?username=gokulkannanganesamoorthy)](https://github.com/gokulkannanganesamoorthy/github-readme-stats)
-
 ---
 
 ### 👨‍💻 About Me
