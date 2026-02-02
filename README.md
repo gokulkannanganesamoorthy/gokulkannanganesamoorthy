@@ -21,9 +21,10 @@
 
 Based in **India**, I sit at the intersection of **Design, Engineering, and Security**. I don't use templates - I build from scratch to ensure performance and precision.
 
-- 🔭 I’m currently working on **VulnScan** (Web Security Tool).
-- 🎨 I specialize in **Animations** and **Micro-interactions**.
-- 🛡️ I audit web applications for **Vulnerabilities**.
+- 🎨 I love designing websites and publishing it ( Apple Centric designs only ).
+- Websites is my kinda netflix, you guys netflix, i'll build websites.
+- I love web animations and creating new design which no one has ever thought of.
+- 🛡️ I audit web applications for **Vulnerabilities** and developed VulnScan for pen testing.
 
 <br />
 
