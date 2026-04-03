@@ -39,10 +39,6 @@
       }
       
       .row {
-        opacity: 0.7;
-        transition: opacity 0.3s ease;
-      }
-      .row:hover {
         opacity: 1;
       }
 

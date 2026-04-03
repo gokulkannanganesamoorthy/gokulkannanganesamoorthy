@@ -1,27 +1,27 @@
 <div align="center">
-  <img src="assets/hero.svg" width="100%" alt="Hero Section">
+  <img src="https://raw.githubusercontent.com/gokulkannanganesamoorthy/gokulkannanganesamoorthy/main/assets/hero.svg" width="100%" alt="Hero Section">
 </div>
 
 <div align="center">
-  <img src="assets/philosophy.svg" width="100%" alt="Philosophy Section">
+  <img src="https://raw.githubusercontent.com/gokulkannanganesamoorthy/gokulkannanganesamoorthy/main/assets/philosophy.svg" width="100%" alt="Philosophy Section">
 </div>
 
 <div align="center">
-  <img src="assets/projects.svg" width="100%" alt="Projects Section">
+  <img src="https://raw.githubusercontent.com/gokulkannanganesamoorthy/gokulkannanganesamoorthy/main/assets/projects.svg" width="100%" alt="Projects Section">
 </div>
 
 <div align="center">
   <br />
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=gokulkannanganesamoorthy&show_icons=true&theme=transparent&hide_border=true&title_color=fff&text_color=ccc&icon_color=fff&bg_color=00000000" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=gokulkannanganesamoorthy&show_icons=true&theme=transparent&hide_border=true&title_color=111&text_color=333&icon_color=111&bg_color=00000000" />
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gokulkannanganesamoorthy&show_icons=true&theme=transparent&hide_border=true&title_color=111&text_color=333&icon_color=111&bg_color=00000000" height="150" alt="stats graph" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=gokulkannanganesamoorthy&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=cccccc&icon_color=ffffff&bg_color=00000000" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=gokulkannanganesamoorthy&show_icons=true&theme=transparent&hide_border=true&title_color=111111&text_color=333333&icon_color=111111&bg_color=00000000" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gokulkannanganesamoorthy&show_icons=true&theme=transparent&hide_border=true&title_color=111111&text_color=333333&icon_color=111111&bg_color=00000000" height="150" alt="stats graph" />
   </picture>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulkannanganesamoorthy&layout=compact&theme=transparent&hide_border=true&title_color=fff&text_color=ccc" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulkannanganesamoorthy&layout=compact&theme=transparent&hide_border=true&title_color=111&text_color=333" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulkannanganesamoorthy&layout=compact&theme=transparent&hide_border=true&title_color=111&text_color=333" height="150" alt="languages graph" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulkannanganesamoorthy&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=cccccc" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulkannanganesamoorthy&layout=compact&theme=transparent&hide_border=true&title_color=111111&text_color=333333" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulkannanganesamoorthy&layout=compact&theme=transparent&hide_border=true&title_color=111111&text_color=333333" height="150" alt="languages graph" />
   </picture>
 </div>
 
