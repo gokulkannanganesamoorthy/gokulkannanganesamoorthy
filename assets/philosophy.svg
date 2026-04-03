@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 450" width="1000" height="450">
+  <defs>
+    <style>
+      .bg {
+        fill: #000000;
+        transition: fill 0.5s ease;
+      }
+      .heading {
+        font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Helvetica Neue", sans-serif;
+        font-weight: 600;
+        font-size: 14px;
+        letter-spacing: 4px;
+        fill: #555555;
+        text-transform: uppercase;
+      }
+      .body-text {
+        font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Helvetica Neue", sans-serif;
+        font-weight: 300;
+        font-size: 24px;
+        line-height: 1.6;
+        fill: #cccccc;
+      }
+      .list-title {
+        font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Helvetica Neue", sans-serif;
+        font-weight: 500;
+        font-size: 16px;
+        letter-spacing: 2px;
+        fill: #ffffff;
+      }
+      .list-item {
+        font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Helvetica Neue", sans-serif;
+        font-weight: 400;
+        font-size: 15px;
+        fill: #888888;
+        line-height: 2;
+      }
+      .accent-line {
+        stroke: #333333;
+        stroke-width: 1;
+      }
+      .glass-box {
+        fill: #ffffff;
+        fill-opacity: 0.02;
+        stroke: #ffffff;
+        stroke-opacity: 0.05;
+        stroke-width: 1;
+        rx: 16px;
+      }
+
+      @media (prefers-color-scheme: light) {
+        .bg { fill: #fbfbfd; }
+        .heading { fill: #999999; }
+        .body-text { fill: #333333; }
+        .list-title { fill: #111111; }
+        .list-item { fill: #666666; }
+        .accent-line { stroke: #e5e5e5; }
+        .glass-box { fill: #000000; fill-opacity: 0.02; stroke: #000000; stroke-opacity: 0.05; }
+      }
+    </style>
+  </defs>
+
+  <rect class="bg" width="1000" height="450" />
+
+  <!-- The "Philosophy" Block -->
+  <g transform="translate(100, 80)">
+    <line class="accent-line" x1="0" y1="0" x2="40" y2="0" />
+    <text x="60" y="5" class="heading">Philosophy</text>
+    
+    <text x="0" y="60" class="body-text">Based in India, I operate at the nexus of</text>
+    <text x="0" y="105" class="body-text">design, software engineering, and</text>
+    <text x="0" y="150" class="body-text">cybersecurity. My focus is on creating web</text>
+    <text x="0" y="195" class="body-text">applications that feel alive—leveraging</text>
+    <text x="0" y="240" class="body-text">fluid animations, physics-based interactions,</text>
+    <text x="0" y="285" class="body-text">and pixel-perfect layouts—while engineering</text>
+    <text x="0" y="330" class="body-text">highly secure backend infrastructures.</text>
+  </g>
+
+  <!-- The "Stack" Block -->
+  <g transform="translate(600, 80)">
+    <rect class="glass-box" x="0" y="0" width="300" height="300" />
+    
+    <text x="30" y="50" class="list-title">FRONTEND</text>
+    <text x="30" y="85" class="list-item">React &bull; TypeScript</text>
+    <text x="30" y="115" class="list-item">Tailwind CSS &bull; Vite</text>
+    <text x="30" y="145" class="list-item">GSAP &bull; Framer Motion</text>
+    
+    <line class="accent-line" x1="30" y1="180" x2="270" y2="180" />
+    
+    <text x="30" y="225" class="list-title">SECURITY</text>
+    <text x="30" y="260" class="list-item">Penetration Testing</text>
+    <text x="30" y="290" class="list-item">Python &bull; Node.js</text>
+  </g>
+
+</svg>

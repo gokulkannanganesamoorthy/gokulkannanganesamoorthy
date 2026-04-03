@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 800" width="1000" height="800">
+  <defs>
+    <style>
+      .bg {
+        fill: #000000;
+        transition: fill 0.5s ease;
+      }
+      .heading {
+        font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Helvetica Neue", sans-serif;
+        font-weight: 600;
+        font-size: 14px;
+        letter-spacing: 4px;
+        fill: #555555;
+        text-transform: uppercase;
+      }
+      .project-title {
+        font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Helvetica Neue", sans-serif;
+        font-weight: 600;
+        font-size: 28px;
+        fill: #ffffff;
+      }
+      .project-desc {
+        font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Helvetica Neue", sans-serif;
+        font-weight: 400;
+        font-size: 16px;
+        fill: #888888;
+        line-height: 1.5;
+      }
+      .project-tag {
+        font-family: SFMono-Regular, Consolas, "Liberation Mono", Menlo, Courier, monospace;
+        font-weight: 600;
+        font-size: 12px;
+        fill: #aaaaaa;
+        letter-spacing: 1px;
+      }
+      .accent-line {
+        stroke: #222222;
+        stroke-width: 1;
+      }
+      
+      .row {
+        opacity: 0.7;
+        transition: opacity 0.3s ease;
+      }
+      .row:hover {
+        opacity: 1;
+      }
+
+      @media (prefers-color-scheme: light) {
+        .bg { fill: #fbfbfd; }
+        .heading { fill: #999999; }
+        .project-title { fill: #111111; }
+        .project-desc { fill: #666666; }
+        .project-tag { fill: #555555; }
+        .accent-line { stroke: #eaeaea; }
+      }
+    </style>
+  </defs>
+
+  <rect class="bg" width="1000" height="800" />
+
+  <!-- The "Selected Work" Header -->
+  <g transform="translate(100, 80)">
+    <line stroke="#555555" stroke-width="1" x1="0" y1="0" x2="40" y2="0" />
+    <text x="60" y="5" class="heading">Selected Index</text>
+  </g>
+
+  <!-- Projects Grid -->
+  <g transform="translate(100, 160)">
+    
+    <!-- Item 1: SaaSify -->
+    <g class="row" transform="translate(0, 0)">
+      <line class="accent-line" x1="0" y1="0" x2="800" y2="0" />
+      <text x="0" y="60" class="project-title">SaaSify</text>
+      <text x="250" y="50" class="project-desc">Modern landing page featuring 3D scroll</text>
+      <text x="250" y="75" class="project-desc">reveals. Built with React and Motion.</text>
+      <text x="650" y="60" class="project-tag">REACT &bull; MOTION</text>
+    </g>
+
+    <!-- Item 2: Luminary -->
+    <g class="row" transform="translate(0, 120)">
+      <line class="accent-line" x1="0" y1="0" x2="800" y2="0" />
+      <text x="0" y="60" class="project-title">Luminary</text>
+      <text x="250" y="50" class="project-desc">Kinetic portfolio highlighting physics-based</text>
+      <text x="250" y="75" class="project-desc">interactions. Developed with React & GSAP.</text>
+      <text x="650" y="60" class="project-tag">REACT &bull; GSAP</text>
+    </g>
+
+    <!-- Item 3: Dino Portfolio -->
+    <g class="row" transform="translate(0, 240)">
+      <line class="accent-line" x1="0" y1="0" x2="800" y2="0" />
+      <text x="0" y="60" class="project-title">Dino Portfolio</text>
+      <text x="250" y="50" class="project-desc">Interactive showcase powered by a custom</text>
+      <text x="250" y="75" class="project-desc">physics engine in JavaScript and Canvas.</text>
+      <text x="650" y="60" class="project-tag">JS &bull; CANVAS</text>
+    </g>
+
+    <!-- Item 4: Neon Commerce -->
+    <g class="row" transform="translate(0, 360)">
+      <line class="accent-line" x1="0" y1="0" x2="800" y2="0" />
+      <text x="0" y="60" class="project-title">Neon Commerce</text>
+      <text x="250" y="50" class="project-desc">An immersive, next-generation e-commerce</text>
+      <text x="250" y="75" class="project-desc">concept built with React and Redux.</text>
+      <text x="650" y="60" class="project-tag">REACT &bull; REDUX</text>
+    </g>
+
+    <!-- Item 5: VulnScan -->
+    <g class="row" transform="translate(0, 480)">
+      <line class="accent-line" x1="0" y1="0" x2="800" y2="0" />
+      <text x="0" y="60" class="project-title">VulnScan</text>
+      <text x="250" y="50" class="project-desc">Security tool engineered for automated</text>
+      <text x="250" y="75" class="project-desc">vulnerability scanning, written in Python.</text>
+      <text x="650" y="60" class="project-tag">PYTHON &bull; SEC</text>
+    </g>
+
+    <line class="accent-line" x1="0" y1="600" x2="800" y2="600" />
+  </g>
+
+</svg>

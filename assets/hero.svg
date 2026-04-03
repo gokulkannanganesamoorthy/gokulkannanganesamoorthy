@@ -1,0 +1,125 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 500" width="1000" height="500">
+  <defs>
+    <!-- CSS Styles -->
+    <style>
+      @keyframes float {
+        0%, 100% { transform: translateY(0); }
+        50% { transform: translateY(-10px); }
+      }
+      @keyframes glowFade {
+        0%, 100% { opacity: 0.5; }
+        50% { opacity: 0.8; }
+      }
+      @keyframes slideUp {
+        0% { opacity: 0; transform: translateY(20px); }
+        100% { opacity: 1; transform: translateY(0); }
+      }
+      
+      .bg {
+        fill: #000000;
+        transition: fill 0.5s ease;
+      }
+      .text-primary {
+        font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Helvetica Neue", sans-serif;
+        font-weight: 800;
+        font-size: 54px;
+        letter-spacing: 4px;
+        fill: #ffffff;
+      }
+      .text-secondary {
+        font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Helvetica Neue", sans-serif;
+        font-weight: 400;
+        font-size: 18px;
+        letter-spacing: 8px;
+        fill: #888888;
+        transform: translateY(20px);
+        opacity: 0;
+        animation: slideUp 1s ease 0.5s forwards;
+      }
+      .quote {
+        font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Helvetica Neue", sans-serif;
+        font-style: italic;
+        font-weight: 300;
+        font-size: 18px;
+        fill: #555555;
+        letter-spacing: 1px;
+        transform: translateY(20px);
+        opacity: 0;
+        animation: slideUp 1s ease 1s forwards;
+      }
+      
+      /* Glowing Orbs */
+      .orb-1 {
+        fill: url(#glow1);
+        mix-blend-mode: screen;
+        animation: float 8s ease-in-out infinite, glowFade 5s ease-in-out infinite;
+      }
+      .orb-2 {
+        fill: url(#glow2);
+        mix-blend-mode: screen;
+        animation: float 12s ease-in-out infinite reverse, glowFade 7s ease-in-out infinite;
+      }
+
+      /* Light Mode Variations */
+      @media (prefers-color-scheme: light) {
+        .bg { fill: #fbfbfd; }
+        .text-primary { fill: #111111; }
+        .text-secondary { fill: #666666; }
+        .quote { fill: #888888; }
+        .orb-1 { mix-blend-mode: multiply; opacity: 0.1; }
+        .orb-2 { mix-blend-mode: multiply; opacity: 0.1; }
+      }
+    </style>
+
+    <!-- Glowing Gradients -->
+    <radialGradient id="glow1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#333333" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#111111" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Subtle Grid Base -->
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#ffffff" stroke-opacity="0.03" stroke-width="1"/>
+    </pattern>
+    <mask id="gridMask">
+      <rect width="100%" height="100%" fill="url(#gridFade)" />
+    </mask>
+    <radialGradient id="gridFade">
+      <stop offset="0%" stop-opacity="1" stop-color="#ffffff"/>
+      <stop offset="100%" stop-opacity="0" stop-color="#000000"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect class="bg" width="1000" height="500" />
+  
+  <!-- Glowing Abstract Shapes -->
+  <circle class="orb-1" cx="300" cy="150" r="250" />
+  <circle class="orb-2" cx="800" cy="350" r="300" />
+
+  <!-- Grid Layer -->
+  <rect width="100%" height="100%" fill="url(#grid)" mask="url(#gridMask)" />
+
+  <!-- Center Content Array -->
+  <g text-anchor="middle" style="animation: slideUp 1s ease forwards;">
+    <!-- Divider Line Top -->
+    <line x1="450" y1="120" x2="550" y2="120" stroke="#444444" stroke-width="1" />
+    
+    <!-- Primary Name -->
+    <text x="500" y="190" class="text-primary">GOKUL KANNAN GANESAMOORTHY</text>
+    
+    <!-- Subheading -->
+    <text x="500" y="240" class="text-secondary">FRONTEND DEVELOPER &nbsp;|&nbsp; SECURITY RESEARCHER</text>
+    
+    <!-- Divider Line Bottom -->
+    <line x1="450" y1="290" x2="550" y2="290" stroke="#444444" stroke-width="1" />
+    
+    <!-- Cinematic Quote -->
+    <text x="500" y="380" class="quote">"I build from scratch. No templates, no compromises.</text>
+    <text x="500" y="415" class="quote">Just performance, precision, and extraordinary visual aesthetics."</text>
+  </g>
+</svg>
