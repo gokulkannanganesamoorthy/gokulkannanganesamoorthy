@@ -17,7 +17,6 @@
       
       .bg {
         fill: #000000;
-        transition: fill 0.5s ease;
       }
       .text-primary {
         font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Helvetica Neue", sans-serif;
@@ -108,7 +107,7 @@
     <line x1="450" y1="120" x2="550" y2="120" stroke="#444444" stroke-width="1" />
     
     <!-- Primary Name -->
-    <text x="500" y="190" class="text-primary">GOKUL KANNAN GANESAMOORTHY</text>
+    <text x="600" y="190" class="text-primary">GOKUL KANNAN GANESAMOORTHY</text>
     
     <!-- Subheading -->
     <text x="500" y="240" class="text-secondary">FRONTEND DEVELOPER &#160;|&#160; SECURITY RESEARCHER</text>
