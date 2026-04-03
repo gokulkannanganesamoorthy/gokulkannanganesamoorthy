@@ -70,7 +70,7 @@
       <text x="0" y="60" class="project-title">SaaSify</text>
       <text x="250" y="50" class="project-desc">Modern landing page featuring 3D scroll</text>
       <text x="250" y="75" class="project-desc">reveals. Built with React and Motion.</text>
-      <text x="650" y="60" class="project-tag">REACT &bull; MOTION</text>
+      <text x="650" y="60" class="project-tag">REACT &#8226; MOTION</text>
     </g>
 
     <!-- Item 2: Luminary -->
@@ -78,8 +78,8 @@
       <line class="accent-line" x1="0" y1="0" x2="800" y2="0" />
       <text x="0" y="60" class="project-title">Luminary</text>
       <text x="250" y="50" class="project-desc">Kinetic portfolio highlighting physics-based</text>
-      <text x="250" y="75" class="project-desc">interactions. Developed with React & GSAP.</text>
-      <text x="650" y="60" class="project-tag">REACT &bull; GSAP</text>
+      <text x="250" y="75" class="project-desc">interactions. Developed with React &amp; GSAP.</text>
+      <text x="650" y="60" class="project-tag">REACT &#8226; GSAP</text>
     </g>
 
     <!-- Item 3: Dino Portfolio -->
@@ -88,7 +88,7 @@
       <text x="0" y="60" class="project-title">Dino Portfolio</text>
       <text x="250" y="50" class="project-desc">Interactive showcase powered by a custom</text>
       <text x="250" y="75" class="project-desc">physics engine in JavaScript and Canvas.</text>
-      <text x="650" y="60" class="project-tag">JS &bull; CANVAS</text>
+      <text x="650" y="60" class="project-tag">JS &#8226; CANVAS</text>
     </g>
 
     <!-- Item 4: Neon Commerce -->
@@ -97,7 +97,7 @@
       <text x="0" y="60" class="project-title">Neon Commerce</text>
       <text x="250" y="50" class="project-desc">An immersive, next-generation e-commerce</text>
       <text x="250" y="75" class="project-desc">concept built with React and Redux.</text>
-      <text x="650" y="60" class="project-tag">REACT &bull; REDUX</text>
+      <text x="650" y="60" class="project-tag">REACT &#8226; REDUX</text>
     </g>
 
     <!-- Item 5: VulnScan -->
@@ -106,7 +106,7 @@
       <text x="0" y="60" class="project-title">VulnScan</text>
       <text x="250" y="50" class="project-desc">Security tool engineered for automated</text>
       <text x="250" y="75" class="project-desc">vulnerability scanning, written in Python.</text>
-      <text x="650" y="60" class="project-tag">PYTHON &bull; SEC</text>
+      <text x="650" y="60" class="project-tag">PYTHON &#8226; SEC</text>
     </g>
 
     <line class="accent-line" x1="0" y1="600" x2="800" y2="600" />

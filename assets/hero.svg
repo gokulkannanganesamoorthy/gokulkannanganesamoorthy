@@ -111,7 +111,7 @@
     <text x="500" y="190" class="text-primary">GOKUL KANNAN GANESAMOORTHY</text>
     
     <!-- Subheading -->
-    <text x="500" y="240" class="text-secondary">FRONTEND DEVELOPER &nbsp;|&nbsp; SECURITY RESEARCHER</text>
+    <text x="500" y="240" class="text-secondary">FRONTEND DEVELOPER &#160;|&#160; SECURITY RESEARCHER</text>
     
     <!-- Divider Line Bottom -->
     <line x1="450" y1="290" x2="550" y2="290" stroke="#444444" stroke-width="1" />

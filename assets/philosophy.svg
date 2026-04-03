@@ -80,15 +80,15 @@
     <rect class="glass-box" x="0" y="0" width="300" height="300" />
     
     <text x="30" y="50" class="list-title">FRONTEND</text>
-    <text x="30" y="85" class="list-item">React &bull; TypeScript</text>
-    <text x="30" y="115" class="list-item">Tailwind CSS &bull; Vite</text>
-    <text x="30" y="145" class="list-item">GSAP &bull; Framer Motion</text>
+    <text x="30" y="85" class="list-item">React &#8226; TypeScript</text>
+    <text x="30" y="115" class="list-item">Tailwind CSS &#8226; Vite</text>
+    <text x="30" y="145" class="list-item">GSAP &#8226; Framer Motion</text>
     
     <line class="accent-line" x1="30" y1="180" x2="270" y2="180" />
     
     <text x="30" y="225" class="list-title">SECURITY</text>
     <text x="30" y="260" class="list-item">Penetration Testing</text>
-    <text x="30" y="290" class="list-item">Python &bull; Node.js</text>
+    <text x="30" y="290" class="list-item">Python &#8226; Node.js</text>
   </g>
 
 </svg>
