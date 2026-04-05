@@ -78,7 +78,7 @@ Based in **India**, I sit at the intersection of **Design, Engineering, and Secu
 <br />
 
 <div align="center">
-  <a href="https://gokulkannanganesamoorthy.vercel.app">
+  <a href="https://gokulkannanganesamoorthy.dev">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-black?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/gokulkannanganesamoorthy/">
